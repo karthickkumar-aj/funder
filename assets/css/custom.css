@@ -1,0 +1,12 @@
+.landing-body-bg {
+	background-image: url(../images/background_gradiant.png);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+.funder-logo {
+	display: block;
+	margin: 10% auto;
+}
+.info h2 {
+	display: none;
+	}
